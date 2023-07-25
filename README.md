@@ -1,7 +1,9 @@
 ### Description
 QAP 4 python programs. 
-#Program 1 includes an insurance policy program for One Stop Insurance Company
-#Program 2 includes a program to showcase annual sales on a graph over 12 months. 
+#
+Program 1 includes an insurance policy program for One Stop Insurance Company
+#
+Program 2 includes a program to showcase annual sales on a graph over 12 months. 
 
 ### Installation 
 Python
